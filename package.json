@@ -30,7 +30,7 @@
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.4",
     "babel-loader": "^8.2.2",
-    "css-loader": "^6.2.0",
+    "css-loader": "^6.7.2",
     "css-minimizer-webpack-plugin": "^2.0.0",
     "cypress": "^7.7.0",
     "html-loader": "^2.1.2",
